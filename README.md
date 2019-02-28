@@ -7,7 +7,7 @@ About
     - youtube_v_info : get information of youtube video
     - youtube_comments : Get all the comments (and comment writer)
   
-- - -
+  
 
 파이썬 selenium 프로젝트
 ------------------------
