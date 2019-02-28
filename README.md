@@ -1,23 +1,16 @@
-# Crawling_Youtube
-python selenium+webdriver crawler
+# Selenium
+Python Selenium Project => MySQL DB
 
 About
 ------
-  * python selenium crawler _ Youtube videos
-    - Information of the video
-    - Get all the comments (and comment writer)
-    
-    
-tools & environment
--------------------
-  * Python 3.x
-    - selenium
-  
-  * anaconda, jupyter notebook
+  * Selenium crawler _ Youtube videos
+    - youtube_v_info : get information of youtube video
+    - youtube_comments : Get all the comments (and comment writer)
   
 - - -
 
-파이썬 selenium과 webdriver를 이용한 크롤러 만들기
-------------------------------------------
- * 영상에 대한 정보 (ex, 소유자, 게시일 ... )
- * 영상의 모든 댓글 가져오기
+파이썬 selenium 프로젝트
+------------------------
+ * Selelnium 크롤러 만들기
+   + youtube_v_info : 유튜브 동영상 정보 크롤링 하기
+   + youtube_comments : 유튜브 동영상 댓글들 크롤링 하기
